@@ -1,5 +1,5 @@
 {
-  "name": "mark-gen",
+  "name": "markgen",
   "version": "1.0.0",
   "description": "A README Markdown Generator",
   "main": "index.js",
