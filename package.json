@@ -1,14 +1,22 @@
 {
-  "name": "static-site",
+  "name": "mark-gen",
   "version": "1.0.0",
-  "description": "",
+  "description": "A README Markdown Generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Cynthia Morales",
   "license": "ISC",
   "dependencies": {
     "inquirer": "8.2.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cynthiamory/MarkGen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cynthiamory/MarkGen/issues"
+  },
+  "homepage": "https://github.com/cynthiamory/MarkGen#readme"
 }
