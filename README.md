@@ -7,7 +7,7 @@ A README Markdown Generator
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Images](#images) 
-- [Link To Video Instructions](#link-url-to-deployed-webpage-on-github)
+- [Link To Video Walkthrough](#link-to-video-walkthrough)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
 - [Credits](#credits)
@@ -55,11 +55,15 @@ THEN I am taken to the corresponding section of the README
 ```
 
 ## Images
-![Website Preview Image](./assets/images/weather_watcher_preview.gif)
+## The Terminal
+![Website Preview Image](./assets/images/terminal-preview.png)
+## The Output
+![Website Preview Image](./assets/images/generated-readme-preview.png)
+## The Live Output Result
+![Website Preview Image](./assets/images/live-generated-readme-preview.png)
 
-
-## Link To Video Instructions
-https://cynthiamory.github.io/weather-watcher/
+## Link To Video Walkthrough
+**Walkthrough:** [Link to the walkthrough video!](https://youtu.be/K6UYsVrBvGs) 
 
 
 ## Installation
