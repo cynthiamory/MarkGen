@@ -10,24 +10,24 @@
   - [Questions](#questions)
 
   ## Description
-  fjfjjf
+  a generator
 
   ## Installation
-  fjfjjf
+  node
 
   ## Usage
-  fjfjf
+  to generate
 
   ## Contribution
-  jfjf
+  install inquirer
 
   ## Tests
-  jfjf
+  node
 
   ## License
   Licensed under the ![License](https://img.shields.io/badge/License-MIT-blue.svg) license
  
   ## Questions
   Reach me by email: cynthia.mory.morales@gmail.com
-  Github username: undefined
+  Github username: cynthiamory
   Github Profile Link: https://github.com/cynthiamory

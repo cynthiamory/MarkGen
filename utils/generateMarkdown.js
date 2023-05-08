@@ -19,9 +19,9 @@ function renderLicenseLink(license) {
   const licenseLinks = {
     Apache2: '![License](https://img.shields.io/badge/License-Apache-License-2.0-blue.svg)',
     MIT: '![License](https://img.shields.io/badge/License-MIT-blue.svg)',
-    GNUGPLv2: '![License](https://img.shields.io/badge/License-GNU-GPLv2-blue.svg)',
-    GNUGPLv3: '![License](https://img.shields.io/badge/License-GNU-GPLv3-blue.svg)',
-    LGPLv21: '![License](https://img.shields.io/badge/License-GNU-GPLv3-blue.svg)',
+    GNUGPLv2: '![License](https://img.shields.io/badge/License-GNUGPLv2-blue.svg)',
+    GNUGPLv3: '![License](https://img.shields.io/badge/License-GNUGPLv3-blue.svg)',
+    LGPLv21: '![License](https://img.shields.io/badge/License-LGPLv2.1-blue.svg)',
     ISC: '![License](https://img.shields.io/badge/License-ISC-blue.svg)'
 
   }
@@ -71,7 +71,7 @@ function generateMarkdown(data) {
  
   ## Questions
   Reach me by email: ${data.email}
-  Github username: ${data.github}
+  Github username: ${data.username}
   Github Profile Link: ${data.link}
 `;
 }
